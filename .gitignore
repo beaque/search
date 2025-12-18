@@ -1,0 +1,31 @@
+# Environment
+.env
+
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+.venv/
+ENV/
+
+# Redis
+dump.rdb
+
+# Data
+data/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# SSH/credentials
+ec2-user@*
